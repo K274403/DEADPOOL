@@ -178,7 +178,7 @@ Use these settings when adding a monitor:</b>
 <details><summary><b>Deploy To VPS</summary>
 
 
-`git clone https://github.com/MandaliWala/Auto-Filter-Bot`
+`git clone https://github.com/K274403/DEADPOOL.git`
 
 Install Packages
 
