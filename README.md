@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://graph.org/file/14b45edf3ff4cc8d53962.jpg" alt="Stark-Filter-Bot Logo">
+  <img src="https://telegra.ph/file/d97a2998c3e02ffea7940.jpg" alt="Stark-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  <b>DEADPOOL FILTER BOT</b>
+  <b>RKMOVIEZIP FILTER BOT</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+DEADPOOL+FILTER+BOT!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+RKMOVIESZIP;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+RKMOVIEZIP+FILTER+BOT!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+RKMOVIESZIP;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)
 </p>
 
 [![Stars](https://img.shields.io/github/stars/MandaliWala/Auto-FILTER-BOT?style=flat-square&color=yellow)](https://github.com/MandaliWala/Auto-FILTER-BOT/stargazers)
@@ -195,8 +195,8 @@ Edit info.py with variables as given below then run bot
 
 ## TELAGRAM SUPPORT 
 
-* [![RKMOVIEZIP](https://img.shields.io/static/v1?label=Tony+Stark&message=BOTZ&color=critical)](https://t.me/RKMOVIESZIP)
-* [![Tony Stark BOTZ Support](https://img.shields.io/static/v1?label=Tony+Stark&message=BOTZ+Support&color=critical)](https://t.me/RKMOVIEZIP)
+* [![RKMOVIEZIP](https://img.shields.io/static/v1?label=RKMOVIEZIP&message=OFFICIAL&color=critical)](https://t.me/RKMOVIESZIP)
+* [![Tony Stark BOTZ Support](https://img.shields.io/static/v1?label=RKMOVIEZIP&message=UPDATE+Support&color=critical)](https://t.me/RKMOVIEZIP)
 
 ## Thanks to 
  - <b>Thanks To [Pyrogram Library](https://github.com/pyrogram/pyrogram) & [Pyrofork Library](https://github.com/Mayuri-Chan/pyrofork)
