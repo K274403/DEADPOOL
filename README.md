@@ -196,7 +196,7 @@ Edit info.py with variables as given below then run bot
 ## TELAGRAM SUPPORT 
 
 * [![RKMOVIEZIP](https://img.shields.io/static/v1?label=RKMOVIEZIP&message=OFFICIAL&color=critical)](https://t.me/RKMOVIESZIP)
-* [![Tony Stark BOTZ Support](https://img.shields.io/static/v1?label=RKMOVIEZIP&message=UPDATE+Support&color=critical)](https://t.me/RKMOVIEZIP)
+* [![Tony Stark BOTZ Support](https://img.shields.io/static/v1?label=RKMOVIEZIP&message=UPDATE&color=critical)](https://t.me/RKMOVIEZIP)
 
 ## Thanks to 
  - <b>Thanks To [Pyrogram Library](https://github.com/pyrogram/pyrogram) & [Pyrofork Library](https://github.com/Mayuri-Chan/pyrofork)
